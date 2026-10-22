@@ -34,3 +34,8 @@ Egyelore ennyi, majd irjatok ti is!
 
 Sziasztok! Én Tamás vagyok és ez az első commit-em ebben a repo-ban!
 >>>>>>> f694bd9f39b39c514fa84ddcbc1957f59ec827f0
+
+###Magor
+
+szia irok enis is-magor
+valamiert nem mukodik ha ezt latod akkor mukodott
