@@ -11,3 +11,5 @@ Duba\n
 Buletin\n
 
 Egyelore ennyi, majd irjatok ti is!
+
+szia irok enis is-magor
