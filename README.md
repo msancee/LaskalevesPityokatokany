@@ -2,12 +2,12 @@ Sziasztok!
 
 Ez itt Sandor, Tamas, Tiha, es Magor uj repoja!
 
-Kedvenc szekely szavaink:
-Piytoka
-Laska
-Kalorifer
-Lepcsi
-Duba
-Buletin
+Kedvenc szavaink:
+Piytoka\n
+Laska\n
+Kalorifer\n
+Lepcsi\n
+Duba\n
+Buletin\n
 
 Egyelore ennyi, majd irjatok ti is!
